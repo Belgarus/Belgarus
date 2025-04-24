@@ -1,5 +1,5 @@
 ## 💫About Me:
-I'm a frontend Developer also intrested in Computer Siense & Ethical hacking.
+I’m a Frontend Developer with a passion for cross-platform app development, computer science, and ethical hacking.
 
 - 🌱 I’m currently working on [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) and a [Computer Sience crash curse](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=a56ttV0UDTmekoat).
 - 🛠 I worked on the frontend and backend in two exciting projects: the [Communardo IT Camp](https://github.com/IT-Wintercamp-2025) and [DVBerry](https://github.com/Julius-Babies/JH_DVBerry), an app that helps blind people navigate in the VVO transit system.
