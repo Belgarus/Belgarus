@@ -1,7 +1,7 @@
 ## 💫 About Me:
 I’m a Frontend Webdeveloper with a passion for computer science, electronics and ethical hacking.
 
-- 🌱 I’m currently working on [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) and a [Computer Sience crash curse](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=a56ttV0UDTmekoat).
+- 🌱 I’m currently working on [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) and a [JavaScript To DO list](https://github.com/dwyl/javascript-todo-list-tutorial).
 - 🛠 I worked on the frontend and backend in two exciting projects: the [Communardo IT Camp](https://github.com/IT-Wintercamp-2025) and [DVBerry](https://github.com/Julius-Babies/JH_DVBerry), an app that helps blind people navigate in the VVO transit system.
 
 ## 💻 Tech Stack
